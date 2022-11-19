@@ -19,7 +19,7 @@ let atletas = [
 
 atletas.forEach(function(element){
   let nomes = element.nome
-  console.log("Atleta: " + nomes)
+  console.log("\nAtleta: " + nomes)
   
   let notas = element.notas.sort()
   console.log("Notas Obtidas: " + notas)
