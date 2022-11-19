@@ -1,6 +1,6 @@
 <h1 align="center"> Notas de Atletas </h1>
 
-# Sobre o projeto
+## Sobre o projeto
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
