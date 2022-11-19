@@ -6,14 +6,14 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<h5> 🔨 Este pequeno projeto é desenvolvido completamente em JavaScript, com o objetivo de manipular uma matriz de objetos com chaves e valores de nomes e notas de atletas fictícios.</h5>
+``🔨 Este pequeno projeto é desenvolvido completamente em JavaScript, com o objetivo de manipular uma matriz de objetos com chaves e valores de nomes e notas de atletas fictícios.``
 
-##### A competição em questão possui a seguinte regra de avaliação:
+``A competição em questão possui a seguinte regra de avaliação:``
 
-+ ##### ``Cada jurado pode fornecer uma nota de um (1) a dez (10);``
-+ ##### ``A média é calculada com base nas três notas do meio, desconsiderando a maior e menor nota.``
++ ``Cada jurado pode fornecer uma nota de um (1) a dez (10);``
++ ``A média é calculada com base nas três notas do meio, desconsiderando a maior e menor nota.``
 
-##### Situação hipotética: O organizador da competição contratou a sua equipe para criar uma aplicação capaz de receber o nome e notas dos atletas e realizar o devido cálculo.
+``Situação hipotética: O organizador da competição contratou a sua equipe para criar uma aplicação capaz de receber o nome e notas dos atletas e realizar o devido cálculo.``
 
 ## Técnicas e tecnologias utilizadas
 
