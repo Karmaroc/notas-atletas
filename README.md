@@ -6,7 +6,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<h5> 🔨 Este pequeno projeto é desenvolvido completamente em JavaScript, com o objetivo de manipular uma matriz de objetos com chaves e valores de nomes e notas de atletas ficticios.</h5>
+<h5> 🔨 Este pequeno projeto é desenvolvido completamente em JavaScript, com o objetivo de manipular uma matriz de objetos com chaves e valores de nomes e notas de atletas fictícios.</h5>
 
 ##### A competição em questão possui a seguinte regra de avaliação:
 
