@@ -40,6 +40,7 @@ atletas.forEach(function(element){
   // console.log(novasNotas)
   
   let soma = 0
+  let media = 0
   novasNotas.forEach(function(notas){
   soma = soma + notas
   
@@ -48,5 +49,6 @@ atletas.forEach(function(element){
   })
 
   console.log("Média Válida: " + media)
+  
   
 })
