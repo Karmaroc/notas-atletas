@@ -44,6 +44,7 @@ atletas.forEach(function(element){
   soma = soma + notas
   
   media = soma / novasNotas.length
+  return media
   })
 
   console.log("Média Válida: " + media)
