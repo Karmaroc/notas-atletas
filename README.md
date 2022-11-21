@@ -17,8 +17,8 @@
 
 ## Técnicas e tecnologias utilizadas
 
-- ``JavaScript``
-- ``Visual Studio Code``
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ## Saída:
 
@@ -37,3 +37,8 @@
 ``Atleta: Bruno Castro``
 - ``Notas Obtidas: 10,10,10,9,9.5``
 - ``Média Válida: 9.666666666666666``
+
+
+## Autor
+
+- ``LinkedIn:`` https://www.linkedin.com/in/karmaroc-vitor-manoel/
